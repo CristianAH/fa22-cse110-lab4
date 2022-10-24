@@ -66,3 +66,5 @@
 17. If the function above is called with the following parameters modifyArray([1,2,3], doSomething), what will be the result? Briefly walk through how you arrived at that result.
  The function produces the array "[2, 4, 6]" which is applying the doSomething on the given array since the code is looping through the array and calling doSomething as callback then pushing the new value from callback into the 'newArr'.
  
+19. What is the output of the above code?
+    1 4 3 2
